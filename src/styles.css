@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Style+Script&display=swap");
+.App {
+  margin: auto;
+  max-width: 600px;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Style Script", cursive;
+  background-color: #818cf8;
+}
